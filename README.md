@@ -29,3 +29,9 @@ To run this script automatically every day at 8:00 AM:
 ```bash
    0 8 * * * /path/to/monitor.sh
 ```
+## Sample Output
+SERVER HEALTH REPORT - Fri Feb  6 06:29:23 PM IST 2026
+---------------------------------------------------
+Disk usage is safe 10%
+Free RAM Available: 10Gi
+Failed SSH Login Attempts: 0
