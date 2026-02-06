@@ -16,18 +16,16 @@ This Bash script automates the daily health checks of a Linux server. It monitor
 
 2. **Make it executable:**
 ```bash
-chmod +x monitor.sh
+   chmod +x monitor.sh
 ```
 3. **Run manually:**
 ```bash
-sudo ./monitor.sh
+   sudo ./monitor.sh
 ```
 ## Automation (Cron Job)
 To run this script automatically every day at 8:00 AM:
-
-Open crontab: crontab -e
-
-Add the following line:
+-Open crontab: crontab -e
+-Add the following line:
 ```bash
-0 8 * * * /path/to/monitor.sh
+   0 8 * * * /path/to/monitor.sh
 ```
