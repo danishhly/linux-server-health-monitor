@@ -31,9 +31,5 @@ To run this script automatically every day at 8:00 AM:
 ```
 ## Sample Output
 SERVER HEALTH REPORT - Fri Feb  6 06:29:23 PM IST 2026
----------------------------------------------------
--Disk usage is safe 10%
--Free RAM Available: 10Gi
--Failed SSH Login Attempts: 0
-
+--------------------------------------------------
 <img width="737" height="425" alt="image" src="https://github.com/user-attachments/assets/b9b57c45-277a-4f42-9157-7d8e9d8ecd75" />
